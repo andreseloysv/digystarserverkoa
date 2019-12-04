@@ -12,10 +12,10 @@ trigger:
     azureSubscription: '125b2d75-9fa2-4b10-ab86-53d97ae3522d'
     
     # Web app name
-    webAppName: 'digystarbackend'
+    webAppName: 'digystarserverkoa'
     
     # Environment name
-    environmentName: 'digystarbackend'
+    environmentName: 'digystarserverkoa'
   
     # Agent VM image name
     vmImageName: 'ubuntu-latest'
