@@ -35,7 +35,7 @@
     "tslint-origin-ordered-imports-rule": "1.2.2",
     "webpack-dev-server": "^3.3.1",
     "webpack": "4.39.2",
-    "webpack-cli": "3.3.7"
+    "webpack-cli": "3.3.12"
   },
   "scripts": {
     "start": "npm run serve",
